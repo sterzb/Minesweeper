@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=gamemain()
+comment0.text=\ this\ method\ operates\ the\ game.\r\n\ @param\ \ \ \ go\ controls\ the\ while\ loop\ running\ the\ game.\r\n\ @return\ \ \ will\ throw\ exception\ to\ end\ game\ if\ it\ is\ false.\r\n\ @param\ \ \ \ xx\ is\ the\ user\ input\ row\ number\r\n\ @param\ \ \ go\ operates\ preconditioning\r\n\ @param\ \ \ goAgain\ also\ operates\ pre\ conditionng\r\n\ @param\ \ \ \ targetRow\ is\ the\ int\ form\ of\ xx\r\n\ @return\ \ \ will\ throw\ an\ exception\ if\ a\ negative\ number\ is\ entered\r\n\ @param\ \ \ yy\ is\ the\ user\ input\ of\ the\ column\ choice\r\n\ @param\ \ \ \ targetCol\ is\ the\ int\ form\ of\ yy\r\n\ @return\ \ \ it\ will\ throw\ an\ exception\ if\ a\ negative\ number\ is\ entered.\r\n\ buggy\ code\ has\ been\ omitted\r\n
+numComments=1

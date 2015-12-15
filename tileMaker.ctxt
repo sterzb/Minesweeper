@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=rows\ columns\ mineMax
+comment0.target=int[][]\ tileGo(int,\ int,\ int)
+comment0.text=\r\n\ This\ method\ creates\ the\ virtual\ game\ map\ for\ the\ mines.\r\n\ @param\ \ columns\ used\ for\ virtual\ game\ map\ generation.\r\n\ @param\ \ mines\ used\ for\ virtual\ game\ map\ generation\r\n\ @return\ virtual\ map\ with\ mine\ tile\ or\ blank\ tile\ in\ a\ 2d\ array.\r\n
+comment1.params=targetRow\ targetCol
+comment1.target=boolean\ tileChecker(int,\ int)
+numComments=2

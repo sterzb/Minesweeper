@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ startBoard()
+comment0.text=\r\n\ \r\n\ startBoard\ draws\ the\ original\ gameboard\r\n\ @param\ \ \ \ rows\ number\ of\ rows\ on\ the\ game\ board\r\n\ @param\ \ \ \ columns\ number\ of\ columns\ on\ the\ game\ board\r\n\ @return\ \ \ game\ board\ displayed\ for\ user\r\n\ @return\ \ \ it\ also\ generates\ the\ mine\ tile\ array\r\n\ @return\ \ \ exception\ for\ negative\ numbers\ entered\ by\ the\ user.\r\n
+comment1.params=
+comment1.target=void\ drawBoard()
+comment1.text=\r\n\ draws\ user\ game\ board\r\n\ \r\n\ @param\ will\ take\ in\ flag\ and\ mine\ coordinates\ in\ the\ future\r\n\ @return\ game\ board\ for\ user\ other\ than\ the\ first\ one\r\n\ \r\n
+numComments=2
