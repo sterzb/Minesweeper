@@ -10,4 +10,12 @@ VERSION or DATE: Version 3.2.11
 HOW TO START THIS PROJECT: Run Gamemain()
 AUTHORS:Ben Sterzinger 
 USER INSTRUCTIONS:  Choose Board size then Choose number of randomly placed mines. Board will be drawn then the 
-mines will be placed.  If the user chooses a number that cannot be chosen, an exception is thrown.  Mines are stored in the tile array. 
+mines will be placed.  If the user chooses a number that cannot be chosen, an exception is thrown.  Mines are stored in the tile array. There is a minor bug in array position identification, however the score does score and add up correctly in test cases.  Player information will be stored locally in players.csv.
+First, last, and Email are the entered values.  The program does operate correctly in the command line environment but there were a few issues
+going to scenebuilder, including the fact I could not get scenebuilder to work until I recieved help from my former professor at Trident Tech due to the 
+unavailability of assistance with this.
+
+
+please regrade the first project presentation with the UML diagram.
+
+The url of my github repository containing my project is: 
